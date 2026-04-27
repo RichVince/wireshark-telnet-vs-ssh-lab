@@ -54,3 +54,11 @@ In a SOC or cybersecurity role, understanding this difference matters because:
 
 ## Key Takeaway
 This lab reinforced a core security principle: **Telnet exposes sensitive data, while SSH protects it through encryption.**
+
+## Screenshots
+
+### Telnet Session in Wireshark
+![Telnet Follow TCP Stream](telnet-follow-tcp-stream.png)
+
+### SSH Session in Wireshark
+![SSH Follow TCP Stream](ssh-follow-tcp-stream.png)
